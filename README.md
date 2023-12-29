@@ -7,13 +7,13 @@ Ce projet en langage C implémente un système de gestion bancaire de base. Il p
 1. **Créer un Nouveau Compte Client**
    - Ajoute un nouveau compte client avec des informations telles que le numéro du compte, le nom, le prénom, l'âge, le numéro de la carte d'identité, et le solde.
 
-2. **Mise à Jour des Informations d'un Compte Existante**
+2. **Mise à Jour des Informations d'un Compte Existant**
    - Permet de modifier les informations d'un client existant, telles que le nom, le prénom, l'âge, le numéro de la carte d'identité, et le solde.
 
-3. **Supprimer un Compte Existante**
+3. **Supprimer un Compte Existant**
    - Supprime un compte client existant.
 
-4. **Afficher les Détails d'un Compte Existante**
+4. **Afficher les Détails d'un Compte Existant**
    - Affiche les détails d'un compte client en fonction du numéro du compte.
 
 5. **Afficher la Liste des Clients**
